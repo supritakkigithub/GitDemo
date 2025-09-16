@@ -19,3 +19,7 @@ git add .
 git status
 git commit -m "Commit Message"
 git push
+
+
+>> To create a New Branch
+git checkout -b "branchName"

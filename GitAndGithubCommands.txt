@@ -1,0 +1,21 @@
+>>For 1st time need to configure the github in our system
+git config --global user.name "supritakkigithub"
+git config --global user.email "supritakki@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+
+Remote Connection for our Application 
+>> git remote add origin https://github.com/supritakkigithub/GitDemo.git  //Now we have made a successfull connection from my local editor to our global github account. (We made a connection now)
+
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
